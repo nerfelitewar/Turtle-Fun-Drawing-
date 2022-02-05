@@ -3,27 +3,28 @@
   
   
  HOW TO CONTROL KEYS- 
-  W( move up),
-  A(move left), 
-  S(move down), 
-  D(move left) And
-  C (draw a circle)
+  ``W( move up)``
+  ``A(move left)``
+  ``S(move down)``
+  ``D(move left)`` And
+  ``C (draw a circle)``
   
  TO CHANGE COLORS- 
-Press= r(red)
-Press= o(orange)
-Press= y(yellow)
-Press= g(green)
-Press= b(blue)
-Press= i(indigo)
-Press= p(purple)
-Press= t(white) 
-Press= E(Eraser ie black)
+``Press= r(red)``
+``Press= o(orange)``
+``Press= y(yellow)``
+``Press= g(green)``
+``Press= b(blue)``
+``Press= i(indigo)``
+``Press= p(purple)``
+``Press= t(white) ``
+``Press= E(Eraser ie black)``
 -just over lap this eraser ie black turtle to clear u can do it :)
 
 THIS IS WHAT I MADE! ALL DEPENDS ON UR CREATIVITY <3
  ![Screenshot 2022-02-05 001442](https://user-images.githubusercontent.com/80751691/152631283-ff92a411-2d80-44e2-8ef9-a30b32c50715.png)
-
  
- HAVE A NICE DAY :D 
+SPECIALTHANKS TO https://github.com/Apuvis (FROM TURKEY) FOR GIVING ME IDEA AND SUGGESTIONS :D 
+
+HAVE A NICE DAY :D 
 
