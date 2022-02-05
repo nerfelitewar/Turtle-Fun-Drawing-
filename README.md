@@ -17,6 +17,7 @@ Press= g(green)
 Press= b(blue)
 Press= i(indigo)
 Press= p(purple)
+Press= t(white) 
 Press= E(Eraser ie black)
 -just over lap this eraser ie black turtle to clear u can do it :)
 
