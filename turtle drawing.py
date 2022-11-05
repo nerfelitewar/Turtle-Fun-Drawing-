@@ -4,10 +4,13 @@
 
 import random
 import turtle
+import pyautogui as pg
 
+
+bg=pg.prompt('Background Color',title='BG')
 wn = turtle.Screen()
 wn.title("TURTLE DRAWING")
-wn.bgcolor("black")
+wn.bgcolor(bg)
 wn.setup(width=600, height=600)
 
 
@@ -17,6 +20,7 @@ head.turtlesize(0.5)
 color=random.choice(["Red","Green","orange","blue", "violet", "indigo","yellow", "purple","black"])
 head.color(color)
 head.direction = 0
+
 
 def red():
     head.color("red")
@@ -104,6 +108,7 @@ wn.onkey(orange,"o")
 wn.onkey(black,"e")
 wn.onkey(blue,'b')
 wn.onkey(white,"t")
+
 turtle.mainloop()
 
 
