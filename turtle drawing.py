@@ -7,7 +7,10 @@ import turtle
 import pyautogui as pg
 
 
-bg=pg.prompt('Background Color',title='BG')
+bg=pg.confirm('Background Color',title='BG',buttons=['Black','Blue','Violet','Red','Green','Yellow'])
+
+
+
 wn = turtle.Screen()
 wn.title("TURTLE DRAWING")
 wn.bgcolor(bg)
@@ -105,7 +108,18 @@ wn.onkey(indigo,"i")
 wn.onkey(purple,"p")
 wn.onkey(yellow,"y")
 wn.onkey(orange,"o")
-wn.onkey(black,"e")
+if bg=='Red':
+    wn.onkey(red,'e')
+if bg=='Blue':
+    wn.onkey(Blue,'e')
+if bg=='Violet':
+    wn.onkey(violet,'e')
+if bg=='Yellow':
+    wn.onkey(yellow,'e')
+if bg=='Black':
+    wn.onkey(black,'e')
+if bg=='Green':
+    wn.onkey(green,'e')
 wn.onkey(blue,'b')
 wn.onkey(white,"t")
 
