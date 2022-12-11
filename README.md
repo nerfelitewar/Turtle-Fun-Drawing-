@@ -1,6 +1,8 @@
-# Turtle Fun Drawing 
+# Turtle Fun Drawing 🎨🖌️ 
   This is very easy and fun turtle project which u can use to fun stuffs like create shapes like Circle, Rectange, Square, etc. and u can use this project in a creative way too like tracking ur hand moments while u r playing games with WASD keys...i will surly update this soon and make it more fun, creative and enjoyable . 
-  
+  ```sh
+  pip install PythonTurtle
+```
   
  HOW TO CONTROL KEYS- 
   ``W( move up)``
